@@ -12,7 +12,7 @@
 
 # 👋 Hi!
 
-I'm Timothy Stewart [(Techno Tim)](https://www.technotim.live), a full stack software engineer, content creator, and a HomeLab enthusiast.   I create fun and easy to follow tech content on YouTube, host a community live stream on Twitch, and share tech related content on all social platforms.  I also create and contribute to many open source projects.
+I'm Timothy Stewart [(Techno Tim)](https://www.technotim.live), a full stack software engineer, content creator, and a HomeLab enthusiast.   I create fun and easy to follow tech content on [YouTube](https://www.youtube.com/c/TechnoTimLive?sub_confirmation=1), host a community live stream on [Twitch](https://twitch.tv/technotim), and share tech related content on all social platforms.  I also create and contribute to many open source projects.  I really enjoy building open source software, creating and contributing to communities, and teaching others through video content.
 
 # 🧑‍💻 My open source repos
 
