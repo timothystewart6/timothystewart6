@@ -21,6 +21,7 @@ I'm Timothy Stewart [(Techno Tim)](https://www.technotim.live), a full stack sof
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=techno-tim&repo=techno-boto-discord&theme=radical)](https://github.com/techno-tim/techno-boto-discord)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=techno-tim&repo=techno-boto-twitch&theme=radical)](https://github.com/techno-tim/techno-boto-twitch)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=techno-tim&repo=ansible-homelab&theme=radical)](https://github.com/techno-tim/ansible-homelab)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=techno-tim&repo=techno-broadlink&theme=radical)](https://github.com/techno-tim/techno-broadlink)
 
 # 📊 My Stats
 
