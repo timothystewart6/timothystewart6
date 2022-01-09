@@ -25,6 +25,6 @@ I'm Timothy Stewart [(Techno Tim)](https://www.technotim.live), a full stack sof
 
 # 📊 My Stats
 
-[![TechnoTim's github stats](https://github-readme-stats.vercel.app/api?username=timothystewart6&show_icons=true&count_private=true&theme=radical&hide=stars)](https://github.com/timothystewart6)
+![TechnoTim's github stats](https://github-readme-stats.vercel.app/api?username=timothystewart6&show_icons=true&count_private=true&theme=radical&hide=stars)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=timothystewart6&theme=dark&count_private=true&theme=radical)](https://git.io/streak-stats)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=timothystewart6&theme=dark&count_private=true&theme=radical)
