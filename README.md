@@ -14,9 +14,9 @@ Techno Tim
 I build platforms, automation, and production-ready systems that make complex
 technology easier to adopt, operate, and improve.
 
-## Engineering highlights
+## Selected projects
 
-| System | What it delivers | Engineering signals |
+| Project | What it does | Under the hood |
 | --- | --- | --- |
 | **[k3s-ansible](https://github.com/timothystewart6/k3s-ansible)** | Repeatable, highly available Kubernetes across Linux distributions and CPU architectures | Ansible collection, embedded etcd, multiple CNIs, load balancing, Molecule CI, versioned releases |
 | **[vllm-gb10](https://github.com/timothystewart6/vllm-gb10)** | Current vLLM containers for NVIDIA GB10 systems | Reproducible builds, exact dependency pins, immutable tags, automated releases, contributor-safe CI |
