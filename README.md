@@ -2,13 +2,7 @@
 
 ## Principal Software Engineer
 
-![Software Architecture](https://img.shields.io/badge/Software_Architecture-1D4ED8?style=flat-square)
-![Developer Experience](https://img.shields.io/badge/Developer_Experience-111827?style=flat-square)
-![Platform Engineering](https://img.shields.io/badge/Platform_Engineering-0F766E?style=flat-square)
-![Technical Leadership](https://img.shields.io/badge/Technical_Leadership-B45309?style=flat-square)
-![Cloud Native Architecture](https://img.shields.io/badge/Cloud--Native_Architecture-6D28D9?style=flat-square)
-
-Developer Experience · Platform Engineering · Web · Mobile · APIs · Cloud ·
+Platform Engineering · Web · Mobile · APIs · Cloud ·
 Techno Tim
 
 I build platforms, automation, and production-ready systems that make complex
