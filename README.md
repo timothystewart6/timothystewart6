@@ -1,9 +1,7 @@
 # Timothy Stewart
 
 ## Principal Software Engineer
-
-Platform Engineering · Web · Mobile · APIs · Cloud ·
-Techno Tim
+Web · Mobile · APIs · Cloud · Techno Tim
 
 I build platforms, automation, and production-ready systems that make complex
 technology easier to adopt, operate, and improve.
@@ -16,14 +14,6 @@ technology easier to adopt, operate, and improve.
 | **[vllm-gb10](https://github.com/timothystewart6/vllm-gb10)** | Current vLLM containers for NVIDIA GB10 systems | Reproducible builds, exact dependency pins, immutable tags, automated releases, contributor-safe CI |
 | **[Techno Tim docs](https://github.com/timothystewart6/techno-tim.github.io)** | Complete infrastructure and self-hosting implementation guides | Docs as code, reusable configuration, tested commands, community contributions |
 | **[littlelink-server](https://github.com/timothystewart6/littlelink-server)** | A lightweight, self-hosted links application | Stateless architecture, environment-based configuration, portable container deployment |
-
-## What I optimize for
-
-```text
-clear interfaces  ·  repeatable delivery  ·  observable systems
-secure defaults   ·  production readiness ·  maintainable code
-agent orchestration · model routing · AI-assisted development
-```
 
 ## Build in public
 
