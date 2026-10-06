@@ -1,7 +1,7 @@
 # Timothy Stewart
 
 ## Principal Software Engineer
-Web · Mobile · APIs · Cloud · Techno Tim
+Web · Mobile · APIs · Cloud · LLMs · Techno Tim
 
 I build platforms, automation, and production-ready systems that make complex
 technology easier to adopt, operate, and improve.
